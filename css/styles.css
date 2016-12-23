@@ -21,3 +21,11 @@ img {
 
 .services {
 }
+
+
+.footer {
+  top: 40px;
+  text-align: center;
+  text-emphasis-position: below;
+
+}
