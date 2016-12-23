@@ -29,3 +29,31 @@ img {
   text-emphasis-position: below;
 
 }
+
+.col-md-3 {
+  padding: 20%;
+}
+
+.portfolio {
+  text-align: center;
+}
+
+
+.welcome {
+  top: 400%;
+  text-align: center;
+  padding-bottom: 40px
+}
+
+
+
+.landing {
+  flex-direction: 200px;
+  margin: 20px;
+  max-width: -20px
+}
+
+
+img {
+  width: auto;;
+}
