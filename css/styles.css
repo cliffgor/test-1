@@ -1,3 +1,23 @@
 .about {
   text-align: center;
+  background-color: white;
+  opacity: 500%;
+font-style: oblique;
+}
+
+.do {
+  text-align: center;
+}
+
+.container {
+  position: absolute;
+  margin: 0%;
+  border: 2px;
+  padding: inherit;
+}
+
+img {
+}
+
+.services {
 }
