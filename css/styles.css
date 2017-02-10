@@ -1,59 +1,58 @@
 .about {
-  text-align: center;
-  background-color: white;
-  opacity: 500%;
-font-style: oblique;
+    text-align: center;
+    background-color: white;
+    opacity: 500%;
+    font-style: oblique;
 }
 
 .do {
-  text-align: center;
+    text-align: center;
 }
 
 .container {
-  position: absolute;
-  margin: 0%;
-  border: 2px;
-  padding: inherit;
+    position: absolute;
+    margin: 0%;
+    border: 2px;
+    padding: inherit;
 }
-
-img {
-}
-
-.services {
-}
-
 
 .footer {
-  top: 40px;
-  text-align: center;
-  text-emphasis-position: below;
-
+    top: 40px;
+    text-align: center;
+    text-emphasis-position: below;
 }
 
 .col-md-3 {
-  padding: 20%;
+    padding: 20%;
 }
 
 .portfolio {
-  text-align: center;
+    text-align: center;
 }
-
 
 .welcome {
-  top: 400%;
-  text-align: center;
-  padding-bottom: 40px
+    top: 400%;
+    text-align: center;
+    padding-bottom: 40px
 }
 
-
-
-.landing {
-  flex-direction: 200px;
-  margin: 20px;
-  max-width: -20px
+#land {
+    max-width: 118%;
+    height: auto;
+    width: auto\9;
+    /* ie8 */
 }
 
+#con {
+    max-width: 118%;
+    height: auto;
+    width: auto\9;
+    /* ie8 */
+}
 
-img {
-  width: auto;;
+#service {
+    max-width: 118%;
+    height: auto;
+    width: auto\9;
+    /* ie8 */
 }
