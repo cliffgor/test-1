@@ -1,8 +1,5 @@
 #about {
     text-align: center;
-    ;
-    background-color: white;
-    opacity: 500%;
     font-style: oblique;
     left: 45%;
 }
@@ -66,6 +63,4 @@
     /* ie8 */
 }
 
-.container {
-    width: 99%;
-}
+.container {}
