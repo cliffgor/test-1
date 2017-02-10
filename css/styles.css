@@ -1,3 +1,4 @@
+;
 #about {
     text-align: center;
     font-style: oblique;
@@ -63,4 +64,6 @@
     /* ie8 */
 }
 
-.container {}
+.container {
+    width: 100%;
+}
